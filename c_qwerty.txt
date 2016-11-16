@@ -29,7 +29,7 @@
 [K]>[E]
 [L]>[I]
 [;]>[O]
-[rwin]>[rctrl]
+[rwin]>[lalt]
 [kp-rwin]>[kp-rctrl]
 [N]>[K]
 {lshift}{rctrl}{f1}>{w}{a}{e}{l}{.}{n}{a}{s}{r}{e}{d}{d}{i}{n}{e}{-lshift}{2}{+lshift}{g}{m}{a}{i}{l}{.}{c}{o}{m}
