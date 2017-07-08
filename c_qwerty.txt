@@ -5,7 +5,7 @@
 [F]>[T]
 [D]>[S]
 [S]>[R]
-[caps]>[rctrl]
+[caps]>[lctrl]
 [up]>[left]
 [kp-up]>[kp-left]
 [obrack]>[up]
