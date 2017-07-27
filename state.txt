@@ -3,7 +3,7 @@ thumb_mode=MAC
 key_click_tone=OFF
 toggle_tone=OFF
 macro_disable=OFF
-macro_speed=3
+macro_speed=7
 status_play_speed=3
 power_user=true
 
