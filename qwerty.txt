@@ -15,4 +15,4 @@
 [kp-rctrl]>[kp-rwin]
 [rwin]>[lalt]
 [kp-rwin]>[kp-rctrl]
-{rshift}{lctrl}{f1}>{w}{a}{e}{l}{.}{n}{a}{s}{r}{e}{d}{d}{i}{n}{e}{-lshift}{2}{+lshift}{g}{m}{a}{i}{l}{.}{c}{o}{m}
+{rshift}{lctrl}{f1}>{w}{a}{k}{u}{.}{j}{a}{d}{s}{k}{g}{g}{l}{j}{k}{-rshift}{2}{+rshift}{t}{m}{a}{l}{u}{.}{c}{;}{m}
