@@ -1,5 +1,4 @@
-startup_file=c_qwerty.txt
-thumb_mode=MAC
+startup_file=qwerty.txt
 key_click_tone=OFF
 toggle_tone=OFF
 macro_disable=OFF
