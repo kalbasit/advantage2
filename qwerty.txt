@@ -4,7 +4,6 @@
 [obrack]>[up]
 [kp.]>[kp-up]
 [cbrack]>[right]
-[kpenter]>[kp-right]
 [scroll]>[shutdn]
 [right]>[cbrack]
 [left]>[obrack]
